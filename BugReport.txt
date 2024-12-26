@@ -1,0 +1,43 @@
+Bug Report
+
+Descriere: Butonul „Join Today” nu răspunde
+Prioritate: Înalta
+Severitate: Critica
+Tipul Test-Case-ului: UI, Usability
+Statut de automatizare: Nu
+
+Precondiții:
+- Dispozitiv
+- Conexiune la internet
+- Browser
+
+Mediu de testare: https://www.utest.com/
+
+Pașii de reproducere:
+1. Pornește dispozitivul
+2. Conectează-te la rețeaua de internet
+3. Deschide browser-ul
+4. Tapează textul “www.utest.com” in bara de căutare
+5. Apasă tasta “Enter”
+6. Localizează butonul “Join Today”
+7. Da click pe butonul “Join Today”
+
+Test data:
+
+”www.utest.com” in calitate de adresa de producție
+
+Rezultatul așteptat: Butonul ”Join Today” răspunde
+
+Rezultatul actual: Butonul ”Join Today” nu răspunde
+
+Statut de executare: failed
+
+Atașament: video.mp4
+
+Încercări de repetare: 0 - se reproduce de fiecare data
+
+Nume QA: Nicolai Cebanu
+
+Nume Developer: Alexandru Rusu
+
+Data si ora: 21:12 26.12.2024
